@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm a passionate tech enthusiast with interests in
 ## 💼 About Me
 
 - 🎓 **BS Computer Engineering**, University of the East – Manila  
-- 🏅 **Cum Laude | College of Engineering Manila's Distinguished Graduate | Exemplary Academic Performance Awardee**
+- 🏅 **Cum Laude | College of Engineering Manila's Distinguished Graduate | Consistent Exemplary Academic Awardee**
 - 📊 Currently focused on **data engineering**, **data analysis**, and **business intelligence development**
 - 💻 Tech stack: `Python`, `PostgreSQL`, `Snowflake`, `PowerBI`, `Pandas`, `Docker`, `AWS`, `Apache Spark`, `Kafka`, `Rasa`
 - 🧠 Methodologies: **Agile Methodology**, **Scrum Framework**
