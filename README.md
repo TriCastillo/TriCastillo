@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Tri Castillo!
 
-Welcome to my GitHub profile! I'm a passionate tech enthusiast with interests in **Data Engineering**, **Data Governance**, and **AI Systems**. I enjoy building intelligent systems and solving real-world problems through data and automation.
+Welcome to my Data Portfolio! I'm a passionate tech enthusiast with interests in **Data Engineering**, **Data Governance**, and **AI Systems**. I enjoy building intelligent systems and solving real-world problems through data and automation.
 
 ---
 
