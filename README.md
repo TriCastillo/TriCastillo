@@ -32,6 +32,10 @@ Welcome to my Data Portfolio! I'm a passionate tech enthusiast with interests in
 ---
 
 ## 🚀 Featured Projects 
+- ⚙️ **ETL Customer pipeline** [[GitHub Repository](https://github.com/TriCastillo/raw-customer-data)]
+
+  A simple ETL pipeline that utilizes Python libraries to integrate, transform, and deliver clean customer data.
+
 (Anonymization In Progress)
 
 - 🔬 **AI Heart Attack Detection System** 
