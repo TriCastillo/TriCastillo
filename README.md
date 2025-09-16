@@ -36,6 +36,11 @@ Welcome to my Data Portfolio! I'm a passionate tech enthusiast with interests in
 
   Designed an ETL pipeline in Python and PostgreSQL to clean 99,000+ retail transactions and developed Power BI dashboards to deliver insights on customer demographics and payment behaviors.
 
+
+- 🦟 **Dengue Cases Exploratory Data Analysis & Visualization** [[GitHub Repository](https://github.com/TriCastillo/doh-dengue-eda-viz)]
+
+  Standardized 32,000+ dengue records using Python (Pandas, NumPy), then visualized (Matplotlib, Seaborn) to analyze regional patterns, seasonality, and case-death trends for public health insights.
+
 (Anonymization In Progress)
 
 - 🔬 **ECG-Based AI Alarm System for Heart Attack Detection** 
