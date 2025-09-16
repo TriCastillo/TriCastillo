@@ -43,15 +43,15 @@ Welcome to my Data Portfolio! I'm a passionate tech enthusiast with interests in
 
 (Anonymization In Progress)
 
-- 🔬 **ECG-Based AI Alarm System for Heart Attack Detection** 
+- 🔬 **ECG-Based AI Alarm System for Heart Attack Detection** (University Design Project)
 
   Built a cloud-based ETL pipeline on 30M+ ECG datapoints using Python, SQL, Docker, AWS Lambda, and MongoDB, training ML models with Scikit-Learn for real-time risk detection and automated alerts.
 
-- 🤖 **NLU Chatbot for Property Queries**
+- 🤖 **NLU Chatbot for Property Queries** (Internship Project)
 
   Developed an NLU chatbot trained on 50,000+ queries using Python and Rasa, applying data preprocessing and NLP pipelines to automate property search recommendations.
 
-- 🌍 **Geospatial Listing Map**
+- 🌍 **Geospatial Listing Map** (Intership Project)
 
   Led a 3-member team to design an interactive data visualization system using Flask and Folium, enabling stakeholders to analyze 10,000+ property listings by location and type.
 
