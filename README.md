@@ -32,23 +32,23 @@ Welcome to my Data Portfolio! I'm a passionate tech enthusiast with interests in
 ---
 
 ## 🚀 Featured Projects 
-- ⚙️ **ETL Customer pipeline** [[GitHub Repository](https://github.com/TriCastillo/raw-customer-data)]
+- ⚙️ **End-to-End ETL and Data Cleaning for Retail Customer Analytics** [[GitHub Repository](https://github.com/TriCastillo/raw-customer-data)]
 
-  A simple ETL pipeline that utilizes Python libraries to integrate, transform, and deliver clean customer data.
+  Designed an ETL pipeline in Python and PostgreSQL to clean 99,000+ retail transactions and developed Power BI dashboards to deliver insights on customer demographics and payment behaviors.
 
 (Anonymization In Progress)
 
-- 🔬 **AI Heart Attack Detection System** 
+- 🔬 **ECG-Based AI Alarm System for Heart Attack Detection** 
 
-  Real-time ECG-based heart attack detection and alert system using ML + IoT (AD8232 + A9G GSM + AWS Lambda).
+  Built a cloud-based ETL pipeline on 30M+ ECG datapoints using Python, SQL, Docker, AWS Lambda, and MongoDB, training ML models with Scikit-Learn for real-time risk detection and automated alerts.
 
 - 🤖 **NLU Chatbot for Property Queries**
 
-  Context-aware chatbot using Rasa trained on 10,000+ utterances for a real estate company.
+  Developed an NLU chatbot trained on 50,000+ queries using Python and Rasa, applying data preprocessing and NLP pipelines to automate property search recommendations.
 
 - 🌍 **Geospatial Listing Map**
 
-  Interactive property locator using Python, Folium, and Flask with real-time data rendering.
+  Led a 3-member team to design an interactive data visualization system using Flask and Folium, enabling stakeholders to analyze 10,000+ property listings by location and type.
 
 ---
 
