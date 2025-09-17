@@ -53,7 +53,7 @@ Welcome to my Data Portfolio! I'm a passionate tech enthusiast with interests in
   Led a 3-member team to design an interactive data visualization system using Flask and Folium, enabling stakeholders to analyze 10,000+ property listings by location and type.
 
 **University Design Project**
-- 🔬 **ECG-Based AI Alarm System for Heart Attack Detection** 
+- 🔬 **ECG-Based AI Alarm System for Heart Attack Detection** [[GitHub Repository](https://github.com/TriCastillo/ai-heart-detection)]
 
   Built a cloud-based ETL pipeline on 30M+ ECG datapoints using Python, SQL, Docker, AWS Lambda, and MongoDB, training ML models with Scikit-Learn for real-time risk detection and automated alerts.
 
