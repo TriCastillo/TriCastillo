@@ -32,28 +32,30 @@ Welcome to my Data Portfolio! I'm a passionate tech enthusiast with interests in
 ---
 
 ## 🚀 Featured Projects 
+
+**Data Engineering Projects**
 - ⚙️ **End-to-End ETL and Data Cleaning for Retail Customer Analytics** [[GitHub Repository](https://github.com/TriCastillo/raw-customer-data)]
 
   Designed an ETL pipeline in Python and PostgreSQL to clean 99,000+ retail transactions and developed Power BI dashboards to deliver insights on customer demographics and payment behaviors.
 
-
+**Data Analysis & Visualization Projects**
 - 🦟 **Dengue Cases Exploratory Data Analysis & Visualization** [[GitHub Repository](https://github.com/TriCastillo/doh-dengue-eda-viz)]
 
   Standardized 32,000+ dengue records using Python (Pandas, NumPy), then visualized (Matplotlib, Seaborn) to analyze regional patterns, seasonality, and case-death trends for public health insights.
 
-(Anonymization In Progress)
-
-- 🔬 **ECG-Based AI Alarm System for Heart Attack Detection** (University Design Project)
-
-  Built a cloud-based ETL pipeline on 30M+ ECG datapoints using Python, SQL, Docker, AWS Lambda, and MongoDB, training ML models with Scikit-Learn for real-time risk detection and automated alerts.
-
-- 🤖 **NLU Chatbot for Property Queries** (Internship Project)
+**Internship Projects**
+- 🤖 **NLU Chatbot for Property Queries** 
 
   Developed an NLU chatbot trained on 50,000+ queries using Python and Rasa, applying data preprocessing and NLP pipelines to automate property search recommendations.
 
-- 🌍 **Geospatial Listing Map** (Intership Project)
+- 🌍 **Geospatial Listing Map** 
 
   Led a 3-member team to design an interactive data visualization system using Flask and Folium, enabling stakeholders to analyze 10,000+ property listings by location and type.
+
+**University Design Project**
+- 🔬 **ECG-Based AI Alarm System for Heart Attack Detection** 
+
+  Built a cloud-based ETL pipeline on 30M+ ECG datapoints using Python, SQL, Docker, AWS Lambda, and MongoDB, training ML models with Scikit-Learn for real-time risk detection and automated alerts.
 
 ---
 
