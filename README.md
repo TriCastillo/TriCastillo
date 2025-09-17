@@ -40,7 +40,7 @@ Welcome to my Data Portfolio! I'm a passionate tech enthusiast with interests in
   
   Designed an ETL pipeline in Python and PostgreSQL to clean 99,000+ retail transactions and developed Power BI dashboards to deliver insights on customer demographics and payment behaviors.
 
-- 🌐 **Data Extraction by APIs and Web Scraping** [[GitHub Repository](https://github.com/TriCastillo/chart-video-api)]
+- 🌐 **Data Extraction by APIs and Web Scraping** [[GitHub Repository](https://github.com/TriCastillo/web-scraping-api)]
 
   Extracted multiple data from the Billboard's Top Global Songs and YouTube music videos, using Python's BeautifulSoup web scraping library and the YT app API, respectively.
 
