@@ -44,7 +44,7 @@ Welcome to my Data Portfolio! I'm a passionate tech enthusiast with interests in
   Standardized 32,000+ dengue records using Python (Pandas, NumPy), then visualized (Matplotlib, Seaborn) to analyze regional patterns, seasonality, and case-death trends for public health insights.
 
 **Internship Projects**
-- 🤖 **NLU Chatbot for Property Queries** 
+- 🤖 **NLU Chatbot for Property Queries** [[GitHub Repository](https://github.com/TriCastillo/nlu-chatbot)]
 
   Developed an NLU chatbot trained on 50,000+ queries using Python and Rasa, applying data preprocessing and NLP pipelines to automate property search recommendations.
 
