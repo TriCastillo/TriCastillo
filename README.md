@@ -1,5 +1,6 @@
 # 👋 Hi there, I'm Tri Castillo!
 
+
 Welcome to my Data Portfolio! I'm a passionate tech enthusiast with interests in **Data Engineering**, **Data Governance**, and **AI Systems**. I enjoy building intelligent systems and solving real-world problems through data and automation.
 
 ---
@@ -33,26 +34,49 @@ Welcome to my Data Portfolio! I'm a passionate tech enthusiast with interests in
 
 ## 🚀 Featured Projects 
 
-**Data Engineering Projects**
-- ⚙️ **End-to-End ETL and Data Cleaning for Retail Customer Analytics** [[GitHub Repository](https://github.com/TriCastillo/raw-customer-data)]
+### ⚙️ Data Engineering Projects
 
+- ⚙️ **End-to-End ETL and Data Cleaning for Retail Customer Analytics** [[GitHub Repository](https://github.com/TriCastillo/raw-customer-data)]
+  
   Designed an ETL pipeline in Python and PostgreSQL to clean 99,000+ retail transactions and developed Power BI dashboards to deliver insights on customer demographics and payment behaviors.
 
-**Data Analysis & Visualization Projects**
+- 🌐 **Data Extraction by APIs and Web Scraping** [[GitHub Repository](https://github.com/TriCastillo/chart-video-api)]
+
+  Extracted multiple data from the Billboard's Top Global Songs and YouTube music videos, using Python's BeautifulSoup web scraping library and the YT app API, respectively.
+
+### 📊 Data Analysis & Visualization Projects
+
+🐍 **Python**
 - 🦟 **Dengue Cases Exploratory Data Analysis & Visualization** [[GitHub Repository](https://github.com/TriCastillo/doh-dengue-eda-viz)]
+  
+    Standardized 32,000+ dengue records using Python (Pandas, NumPy), then visualized (Matplotlib, Seaborn) to analyze regional patterns, seasonality, and case-death trends for public health insights.
+- 🐼 **Python Summer Party Challenge** [[GitHub Repository](https://github.com/TriCastillo/python-summer-party-challenge)]
 
-  Standardized 32,000+ dengue records using Python (Pandas, NumPy), then visualized (Matplotlib, Seaborn) to analyze regional patterns, seasonality, and case-death trends for public health insights.
+  A series of data-related challenges utilizing real-world datasets will be tackled using Python and its packages: Pandas and NumPy.
+  
 
-**Internship Projects**
+
+🐘 **SQL**
+- **Student Outcomes Analytics** [[GitHub Repository](https://github.com/TriCastillo/student-outcomes-analytics)]
+- **UCL Snowflake Analysis** [[GitHub Repository](https://github.com/TriCastillo/ucl-snowflake-analysis)]
+- **Residential EV Analysis** [[GitHub Repository](https://github.com/TriCastillo/residential-ev-analysis)]
+- **Video Game Golden Age Analysis** [[GitHub Repository](https://github.com/TriCastillo/video-game-golden-age-analysis)]
+- **London Public Transport SQL** [[GitHub Repository](https://github.com/TriCastillo/london-public-transport-sql)]
+- **Product Carbon Footprint SQL Analysis** [[GitHub Repository](https://github.com/TriCastillo/product-carbon-footprint-sql-analysis)]
+- **International Debt SQL Analysis** [[GitHub Repository](https://github.com/TriCastillo/international-debt-sql-analysis)]
+- **International Student Mental Health SQL** [[GitHub Repository](https://github.com/TriCastillo/intl-student-mental-health-sql)]
+- **Baby Names Popularity** [[GitHub Repository](https://github.com/TriCastillo/baby-names-popularity)]
+
+### 🧑‍💻 Internship Projects
 - 🤖 **NLU Chatbot for Property Queries** [[GitHub Repository](https://github.com/TriCastillo/nlu-chatbot)]
 
   Developed an NLU chatbot trained on 50,000+ queries using Python and Rasa, applying data preprocessing and NLP pipelines to automate property search recommendations.
 
-- 🌍 **Geospatial Listing Map** 
+- 🌍 **Geospatial Listing Map** [[GitHub Repository](https://github.com/TriCastillo/flask-folium-map)]
 
   Led a 3-member team to design an interactive data visualization system using Flask and Folium, enabling stakeholders to analyze 10,000+ property listings by location and type.
 
-**University Design Project**
+### 🧑‍🎓 University Design Project
 - 🔬 **ECG-Based AI Alarm System for Heart Attack Detection** [[GitHub Repository](https://github.com/TriCastillo/ai-heart-detection)]
 
   Built a cloud-based ETL pipeline on 30M+ ECG datapoints using Python, SQL, Docker, AWS Lambda, and MongoDB, training ML models with Scikit-Learn for real-time risk detection and automated alerts.
@@ -67,7 +91,7 @@ Welcome to my Data Portfolio! I'm a passionate tech enthusiast with interests in
 
 ## 📫 Let’s Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/reynaldo-iii-castillo-975120303/)
+- 💼 [LinkedIn - Reynaldo III Castillo](https://www.linkedin.com/in/reynaldo-iii-castillo-975120303/)
 - 📨 reynaldoiii.castillo@gmail.com
 
 ---
