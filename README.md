@@ -34,6 +34,11 @@ Welcome to my Data Portfolio! I'm a passionate tech enthusiast with interests in
 
 ## 🚀 Featured Projects 
 
+### 👨‍💻 Developer Projects
+
+- 🤳 **Account Registration System** [[GitHub Repository](https://github.com/TriCastillo/python-register-users)]
+
+
 ### 👷 Data Engineering Projects
 
 - ⚙️ **End-to-End ETL and Data Cleaning for Retail Customer Analytics** [[GitHub Repository](https://github.com/TriCastillo/etl-retail-analytics)]
