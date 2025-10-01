@@ -41,7 +41,7 @@ Welcome to my Data Portfolio! I'm a passionate tech enthusiast with interests in
 
 ### 👷 Data Engineering Projects
 
-- ⚙️ **End-to-End ETL and Data Cleaning for Retail Customer Analytics** [[GitHub Repository](https://github.com/TriCastillo/etl-retail-analytics)]
+- ⚙️ **End-to-End ETL and Data Cleaning for Retail Customer Analytics** [[GitHub Repository](https://github.com/TriCastillo/etl-retail-analytics)] | [[Power BI Dashboard](https://app.powerbi.com/groups/me/reports/b0654241-7eb3-4b76-9f61-8d3d880a9780/891143741a190d1e18f6?experience=power-bi)]
   
   Designed an ETL pipeline in Python and PostgreSQL to clean 99,000+ retail transactions and developed Power BI dashboards to deliver insights on customer demographics and payment behaviors.
 
