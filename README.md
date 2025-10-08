@@ -39,6 +39,10 @@ Welcome to my Data Portfolio! I'm a passionate tech enthusiast with interests in
 - 🤳 **Account Registration System** [[GitHub Repository](https://github.com/TriCastillo/python-register-users)]
 
 
+- 🏦 **Multi-Currency Sales Aggregation with Python and VAT Comply API** [[GitHub Repository](https://github.com/TriCastillo/data-gadgets-usd-sales-aggregation)]
+  
+  A Python-based data pipeline that automates multi-currency sales aggregation by fetching live exchange rates from the VAT Comply API and converting all transactions into USD for unified reporting and analysis.
+
 ### 👷 Data Engineering Projects
 
 - ⚙️ **End-to-End ETL and Data Cleaning for Retail Customer Analytics** [[GitHub Repository](https://github.com/TriCastillo/etl-retail-analytics)] | [[Power BI Dashboard](https://app.powerbi.com/groups/me/reports/b0654241-7eb3-4b76-9f61-8d3d880a9780/891143741a190d1e18f6?experience=power-bi)]
