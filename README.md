@@ -99,6 +99,7 @@ Welcome to my Data Portfolio! I'm a passionate tech enthusiast with interests in
 
 ![Tri's GitHub stats](https://github-readme-stats.vercel.app/api?username=TriCastillo&show_icons=true&theme=tokyonight)
 
+![Codewars Badge](https://www.codewars.com/users/TriCastillo/badges/large)
 ---
 
 ## 📫 Let’s Connect
